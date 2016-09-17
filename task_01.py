@@ -53,7 +53,7 @@ def fahrenheit_to_kelvin(degrees):
       degrees (int): temp value
       ABSOLUTE_DIFFERENCE (dec): value of 273.15
       fahrenheit_to_celsius (func): converts to celsius
-      celsius_to_fahrenheit (func): converts to kelvin
+      celsius_to_kelvin (func): converts to kelvin
 
     Returns:
       kelvinf (dec): converted to celsius, then to kelvin
