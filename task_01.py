@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""This module converts farenheit into celcius."""
+"""This module converts farenheit into celcius and to kelvin."""
 
 
 import decimal
